@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/pftg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pftg.github.io
+  * I am pftg (https://keybase.io/pftg) on keybase.
+  * I have a public key ASCMuwK47cZW2OTDGVxqtBf7NSDr0bwRGLtOfj3Cp6errQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01208cbb02b8edc656d8e4c3195c6ab417fb3520ebd1bc1118bb4e7e3dc2a7a7abad0a",
+            "host": "keybase.io",
+            "kid": "01208cbb02b8edc656d8e4c3195c6ab417fb3520ebd1bc1118bb4e7e3dc2a7a7abad0a",
+            "uid": "d52d7e44195b20d673a7250c6b13fe19",
+            "username": "pftg"
+        },
+        "service": {
+            "hostname": "pftg.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1490711528,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1490711496,
+        "hash": "3e30329c93cc4e8f02814d5b37b98ce34f922e756dfddb0742ba56256595da77ec4c61ded635e91bd01e37323e2e762ebf49de7d4c9abefc157d159ec718d88d",
+        "seqno": 982478
+    },
+    "prev": "b5ae493fe131a32006c52a751fe7e4cf99d5f8b58772e4a17d96389f74d28ae1",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjLsCuO3GVtjkwxlcarQX+zUg69G8ERi7Tn49wqenq60Kp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGNiYjAyYjhlZGM2NTZkOGU0YzMxOTVjNmFiNDE3ZmIzNTIwZWJkMWJjMTExOGJiNGU3ZTNkYzJhN2E3YWJhZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOGNiYjAyYjhlZGM2NTZkOGU0YzMxOTVjNmFiNDE3ZmIzNTIwZWJkMWJjMTExOGJiNGU3ZTNkYzJhN2E3YWJhZDBhIiwidWlkIjoiZDUyZDdlNDQxOTViMjBkNjczYTcyNTBjNmIxM2ZlMTkiLCJ1c2VybmFtZSI6InBmdGcifSwic2VydmljZSI6eyJob3N0bmFtZSI6InBmdGcuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjAifSwiY3RpbWUiOjE0OTA3MTE1MjgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5MDcxMTQ5NiwiaGFzaCI6IjNlMzAzMjljOTNjYzRlOGYwMjgxNGQ1YjM3Yjk4Y2UzNGY5MjJlNzU2ZGZkZGIwNzQyYmE1NjI1NjU5NWRhNzdlYzRjNjFkZWQ2MzVlOTFiZDAxZTM3MzIzZTJlNzYyZWJmNDlkZTdkNGM5YWJlZmMxNTdkMTU5ZWM3MThkODhkIiwic2Vxbm8iOjk4MjQ3OH0sInByZXYiOiJiNWFlNDkzZmUxMzFhMzIwMDZjNTJhNzUxZmU3ZTRjZjk5ZDVmOGI1ODc3MmU0YTE3ZDk2Mzg5Zjc0ZDI4YWUxIiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAyYfVZHALXFMJIGDBxRDDTPQS2fRfa1oWktBi8D+I+GutMDiQGOFejQ5yjMXFem2JDNlcP8Zx435oHjykLRLYBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGgu0qdCtzyuzo9ICmjSmoSEuhZDjltaHH/KIYV6Fazio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pftg
+
+==================================================================
